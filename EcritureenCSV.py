@@ -7,6 +7,7 @@ Created on Thu Dec 16 08:41:31 2021
 
 import numpy as np
 import datetime
+import os
 
 try:
     #with open("evenementSAE_15.ics", encoding="utf8") as fh:
